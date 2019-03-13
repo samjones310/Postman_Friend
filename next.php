@@ -100,7 +100,7 @@ console.log("<?php echo $value; ?>");
             <br><br>
             <div class="map">
                <head>
- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDC9XaK-ZI3PmyNgCGBBgsnyAoeXZayqmk.exp&sensor=false"></script>
+ <script src="https://maps.googleapis.com/maps/api/js?key='Your API key'&sensor=false"></script>
         <script>
 		
             var map,
