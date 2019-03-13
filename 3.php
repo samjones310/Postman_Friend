@@ -105,7 +105,7 @@ session_start();
 		
     </head>
     <body>
-	 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDC9XaK-ZI3PmyNgCGBBgsnyAoeXZayqmk&callback=initMap"
+	 <script src="https://maps.googleapis.com/maps/api/js?key=*************************************&callback=initMap"
     async defer></script>
         <div id="map_canvas" onclick="mapDivClicked(event);" style="height: 350px; width: 500px;"></div>
         <div>
