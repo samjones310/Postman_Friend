@@ -52,7 +52,7 @@ session_start();
              <div class="col-mg-6 col-lg-6">
                 <div class="map">
 				 <head>
- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDC9XaK-ZI3PmyNgCGBBgsnyAoeXZayqmk.exp&sensor=false"></script>
+ <script src="https://maps.googleapis.com/maps/api/js?key='Your api key'&sensor=false"></script>
         <script>
 		
             var map,
